@@ -19,6 +19,7 @@ while True:
         for price in prices:
             total += price
             
-        print("/n")
+        print("\n")
         print(f"Your total is: R{total}")
+
     
